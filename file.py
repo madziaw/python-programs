@@ -11,4 +11,4 @@ elif choice == '2':
     file_name.write(text +'\n')
     file_name.close()
 else:
-    print('Error. Choose 1 or 2.')
+    print('Error! Choose 1 or 2.')
